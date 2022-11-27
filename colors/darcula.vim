@@ -46,7 +46,7 @@ let s:p={
       \ 'number': ['#6897BB', 103],
       \ 'delimiter': ['#CC7832', 172],
       \ 'specialComment': ['#8A653B', 95],
-      \ 'function': ['#FFC66D', 216],
+      \ 'function': ['#FFC66D', 221],
       \ 'diffAdd': ['#294436', 23],
       \ 'diffText': ['#385570', 60],
       \ 'diffDelete': ['#484A4A', 239],
