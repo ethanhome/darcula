@@ -3,7 +3,7 @@
 " file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 if exists("g:darcula")
-  finish
+  "finish
 endif
 let g:darcula = 1
 highlight clear
